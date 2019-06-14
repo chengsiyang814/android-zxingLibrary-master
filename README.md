@@ -386,4 +386,4 @@ CodeUtils.isLightEnable(true);
  CodeUtils.isLightEnable(false);
 ```
 
-也可以参考我的博客：<a href="http://blog.csdn.net/qq_23547831/article/details/52037710">几行代码快速集成二维码扫描库</a>
+也可以参考原文作者博客：<a href="http://blog.csdn.net/qq_23547831/article/details/52037710">几行代码快速集成二维码扫描库</a>
