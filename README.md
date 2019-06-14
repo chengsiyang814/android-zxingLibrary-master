@@ -1,6 +1,6 @@
 # android-zxingLibrary
 
-
+原文作者博客：<a href="http://blog.csdn.net/qq_23547831/article/details/52037710">几行代码快速集成二维码扫描库</a>
 **更新日志**
 
 - compile 1.3 2016/08/02 优化扫描API
@@ -386,4 +386,4 @@ CodeUtils.isLightEnable(true);
  CodeUtils.isLightEnable(false);
 ```
 
-也可以参考原文作者博客：<a href="http://blog.csdn.net/qq_23547831/article/details/52037710">几行代码快速集成二维码扫描库</a>
+
